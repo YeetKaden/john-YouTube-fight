@@ -69,7 +69,7 @@
 0.1,HeartMode,1,,,,,,,
 0.2,SansText,one thing is certain though.,,,,,,
 0,SansText,you cannot no-hit this.,,,,,,,
-0,BlackScreen,1,,,,,,
+10,BlackScreen,0,,,,,,
 0,Sound,Flash,,
 0,Sound,PlayerFight,,
 0,SansSlam,4,,
