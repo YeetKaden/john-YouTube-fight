@@ -19,7 +19,7 @@
 0.5,gasterblaster,2,640,0,580,60,140,4.3,2
 0,bonestab,1,92.5,5,3
 0.3,SansTorso,Shrug
-4.25,PlayerHeal,-100,,,,
+4.25,PlayerHeal,-100,1,,,
 1,SansSweat,1
 0,SansTorso,Default
 2,SansText,...,,
@@ -35,16 +35,17 @@
 0,SansText,heh.,,,,,
 0,SansHead,ClosedEyes
 3,SansHead,Default
-0,DamagePlayer,-100,,,,
-0.5,bonestab,1,152.5,0.5,3
+0,DamagePlayer,-70,1,,,
+0,SansText,who healed you?,,,,,,
+0.5,bonestab,1,150,0.5,2
 2,SansHead,BlueEye
-2,SansText,you bum.,,,,, 
+2,SansText,you bum.,,,,,
+0,DamagePlayer,-10,1,,,
 2.5,SansHead,NoEyes
 2.5,SansHead,LookLeft
 0,SansText,come on man...,,,,,
 0,SansHead,Default
 0,SansText,ok fine...,,
-0,SansText,你真的好笨,,
 0,SansHead,NoEyes
 0,SansText,you are not going to        have your turn ever,,
 0,SansHead,Default
@@ -103,7 +104,7 @@
 0,SansText,you goddamn racist.,,,
 2.5,SansText,i mean,,
 0,SansText,im racist too...,,
-40,SansText,i get it now,,
+20,SansText,i get it now,,
 0,SansText,you keep waiting until i     say something,,
 0,SansText,like kids meal with extra       kids!,,
 0,SansHead,wink
@@ -123,6 +124,7 @@
 0,SansText,here's your phase 2!,,,
 0,SansText,also just in case you have         low HP...,,,,,,,
 0.2,SansBody,shrug,,,,,
+0,SansText,i advise you to leave if          have less than 14HP,,,,,,
 0.3,DamagePlayer,14,1,,,,,,
 0,sound,HeartSplit,,,,,,
 0.2,EndAttack,,,,,
