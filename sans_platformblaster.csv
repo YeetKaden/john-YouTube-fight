@@ -2,7 +2,10 @@
 0,HeartTeleport,320,376,,,,,,
 0,HeartMode,1,,,,,,,
 0,TLPause,,,,,,,,
-0,SansText,toby fox is GOD,,,,,,,
+0,SansText,i am GOD,,,,,,,
+0,SansText,oops wrong line,,,,,,,
+0,SansText,i meant die die die!,,,,,,
+0,SansText,wrong line again whoops.,,,,,,,
 0,SansTorso,Default,,;
 0,SansAnimation,Idle,,;
 0,HeartTeleport,315,304,,,,,,;
@@ -69,5 +72,6 @@
 0,GasterBlaster,2,0,0,258,441,270,0.16,0.4444
 0,GasterBlaster,0,0,0,454,441,225,0.16,0.4444
 0,GasterBlaster,0,0,0,454,176,135,0.16,0.4444
-2.2,SansText,come on you dirty adblocker,,,,,,,
+2.2,SansText,death you dirty adblocker,,,,,,,
+0,SansText,that grammar mistake was        on purpose by the way.,,,,,,,
 5,EndAttack,,,
