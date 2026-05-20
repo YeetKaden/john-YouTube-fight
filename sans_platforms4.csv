@@ -2,9 +2,9 @@
 0,HeartTeleport,320,376,,,,,
 0,HeartMode,1,,,,,,
 0,TLPause,,,,,,,
-0,SansText,Ok its time for seriousness,,,,,,,
+0,SansText,time for seriousness,,,,,,,
 0,SansText,so mr adblocker,,,,,,,
-0,SansText,what do you feel about your         crimes?,,,,,,,
+0,SansText,what do you feel about          your crimes?,,,,,,,
 0,SansText,feeling great?,,,,,,,
 0,SansHead,NoEyes,,,,,,,
 0,SansText,you sick bastard.,,,,,,,
@@ -18,12 +18,6 @@
 1.3,GasterBlaster,0.7,640,286,560,326,180,0.6,0.1
 2.3,GasterBlaster,0.7,640,286,560,326,180,0.6,0.1
 2.3,GasterBlaster,0.7,640,286,560,326,180,0.6,0.1
-3.3,GasterBlaster,0.7,640,286,560,326,180,0.6,0.1
-2.3,GasterBlaster,0.7,640,286,560,326,180,0.6,0.1
-1.3,GasterBlaster,0.7,640,286,560,326,180,0.6,0.1
 0.3,GasterBlaster,0.7,640,286,560,326,180,0.6,0.1
 0.3,GasterBlaster,0.7,640,286,560,326,180,0.6,0.1
-0.3,GasterBlaster,0.7,640,286,560,326,180,0.6,0.1
-0.3,GasterBlaster,0.7,640,286,560,326,180,0.6,0.1
-0.3,GasterBlaster,0.7,640,286,560,326,180,0.6,0.1
-27.3,EndAttack,,,,,,,
+7.3,EndAttack,,,,,,,
