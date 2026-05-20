@@ -55,7 +55,7 @@
 0,GasterBlaster,1,0,0,360,441,270,0,0.1
 0,GasterBlaster,0,0,0,386,100,90,0,0.1
 0,SansAnimation,,,,,,,,
-1.2,HeartMode,0,,,,,,,
+1.2,HeartMode,1,,,,,,,
 0.1,GasterBlaster,2,0,0,322,441,270,0.2,0.4444
 0,GasterBlaster,2,0,0,454,441,225,0.2,0.4444
 0.82,GasterBlaster,2,0,0,388,441,270,0.16,0.4444
