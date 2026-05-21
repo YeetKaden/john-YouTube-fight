@@ -959,13 +959,174 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,GasterBlaster,2,0,240,324,106,90,1.2,0.45
 0,GasterBlaster,2,640,240,324,506,270,1.2,0.45
 2,SansHead,NoEyes,,,,,,,
+0,CombatZoneResize,133,251,508,391,TLResume,,
+0,HeartTeleport,320,376,,,,,
+0,HeartMode,1,,,,,,
+0,TLPause,,,,,,,
+0.2,BoneVRepeat,128,257,95,0,180,8,120
+0,BoneVRepeat,128,366,20,0,180,8,120
+0,BoneVRepeat,503,257,95,2,180,8,120
+0,BoneVRepeat,503,366,20,2,180,8,120
+1.1,SansText,...,,,,,,
+0,BoneVRepeat,400,340,25,2,135,10,85
+0,GasterBlaster,0,140,0,140,150,90,0.56666,0.2
+0,GasterBlaster,0,500,0,500,150,90,0.56666,0.2
+0,GasterBlaster,0,180,0,180,150,90,0.56666,0.2
+0,GasterBlaster,0,460,0,460,150,90,0.56666,0.2
+0,GasterBlaster,0,220,0,220,150,90,0.56666,0.2
+0,GasterBlaster,0,420,0,420,150,90,0.56666,0.2
+0,BoneVRepeat,128,366,20,0,150,8,120
+0,BoneVRepeat,503,366,20,2,150,8,120
+0,GasterBlaster,0,260,0,260,150,90,0.56666,0.2
+0,GasterBlaster,0,380,0,380,150,90,0.56666,0.2
+0,GasterBlaster,0,180,0,180,150,90,0.56666,0.2
+0,GasterBlaster,0,460,0,460,150,90,0.56666,0.2
+0,GasterBlaster,0,220,0,220,150,90,0.56666,0.2
+0,GasterBlaster,0,420,0,420,150,90,0.56666,0.2
+0,SansText,ugh... i dont have enough,,,,,,
+0,SansText,energy...,,,,,,
+0,DamagePlayer,-15,,,,,,
+0,SansHead,NoEyes,,,,,
+0,SansText,cant continue with karma,,,,,
+0,SansText,you redditor...,,,,,,
+0,BoneVRepeat,128,366,20,0,150,8,120
+1,BoneVRepeat,128,257,95,0,180,8,120
+0.1,BoneVRepeat,503,257,95,2,180,8,120
+0,BoneVRepeat,503,366,20,2,150,8,120
+0,GasterBlaster,0,260,0,260,150,90,0.56666,0.2
+0,GasterBlaster,0,380,0,380,150,90,0.56666,0.2
+2,sansbody,handup,,
+0.4,sansslam,3,,
+0.2,BoneVRepeat,128,257,20,0,180,8,120
+0,BoneVRepeat,128,366,95,0,180,8,120
+0,BoneVRepeat,503,257,20,2,180,8,120
+0,BoneVRepeat,503,366,95,2,180,8,120
+0,SansSlam,1,,
+0.2,BoneStab,1,30,0.5,0.3,,,
+0,SansSlam,4,,
+0.2,BoneStab,4,35,0.3,0.4,,,
+0.5,SansSlam,1,,
+1.2,BoneVRepeat,128,252,80,0,180,8,165
+0,BoneVRepeat,108,252,70,0,180,8,165
+0,BoneVRepeat,88,252,60,0,180,8,165
+0,BoneVRepeat,128,366,20,0,180,8,165
+0,BoneVRepeat,108,356,30,0,180,8,165
+0,BoneVRepeat,88,346,40,0,180,8,165
+0,BoneVRepeat,503,252,80,2,180,8,165
+0,BoneVRepeat,523,252,70,2,180,8,165
+0,BoneVRepeat,543,252,60,2,180,8,165
+0,BoneVRepeat,503,366,20,2,180,8,165
+0,BoneVRepeat,523,356,30,2,180,8,165
+0,BoneVRepeat,543,346,40,2,180,8,165
+0,SansText,no more adblocks...,,,,,,
+0.5,BoneVRepeat,128,366,20,0,140,25,76
+0,BoneVRepeat,513,257,107,2,150,25,76
+0,HeartMode,0,,,,,,
+0,SansText,time for finicky parts,,,,,,
+0,SansHead,LookLeft,,,,,,
+0,HeartMaxFallSpeed,60,,,,,
+0,Sound,Ding,,,,,
+0,SansText,thats better.,,,,,,
+0,HeartTeleport,320,304,,
+0,BoneVRepeat,123,391,55,0,300,8,120
+0,BoneVRepeat,518,391,55,2,180,8,120
+0,BoneVRepeat,123,251,55,0,300,8,120
+0,BoneVRepeat,518,251,55,2,180,8,120
+0.4,SineBones,24,-24,350,20,,,,
+2.2,blackscreen,1,,
+0,combatzoneresizeinstant,239,226,404,391,
+0,sound,flash,1,,
+0.2,blackscreen,0,,
+0,sound,flash,1,,
+0,SansHead,default,,,
+0,SansText,you would have noticed,,,,,,
+0,SansText,your gravity has changed,,,,,,
+0,SansText,heh.,,,,,,
+0,SansText,looks like i just,,,,,,
+0,SansText,hit the jackpot?,,,,,,
+0,SansText,oops wrong video,,,,,,
+0,SansText,i meant,,,,,,
+0,SansHead,blueeye,,,,,
+0,SansText,y'know this whole time          you gave me some weird          vibes.,,,,,,
+0,SansText,it's almost as if            you're not from here.,,,,,,
+0,SansText,so, if youre from          another world, it makes me          wonder...,,,
+0,SansText,how many worlds have         you destroyed?,,,,,,
+0,SansText,because judging from          how you know what to expect         from my attacks...,,,
+0,SansText,this ain't your first           rodeo, is it?,,,
+0,SansText,to be blunt it makes            it hard to give it my           all.,,,
+0,SansText,because if you managed            to beat all those other         sanses...,,,
+0,SansText,then how am i supposed            to win?,,,
+0,SansText,im a mid d tier sans,,,,,,
+0,SansText,and like my name...,,,,,,
+0,SansText,isnt even sans...,,,,,,
+0,SansText,that being said...,,,,,,
+0,SansText,this script from reddit         is actually interesting.,,,,,,
+0,SansText,wait this is a deltarune         script?,,,,,,
+0,SansHead,blueeye,,,
+0,SansText,DIE.,,,,,,
+0,SansHead,default,,,
+0,HeartTeleport,320,304,,
+0,HeartMode,1,,,,,
+0,SansHead,wink,,,,,,
+0.2,BoneVRepeat,128,257,95,0,180,3,120
+0,BoneVRepeat,128,366,20,0,180,3,120
+0,BoneVRepeat,503,257,95,2,180,3,120
+0,BoneVRepeat,503,366,20,2,180,3,120
+2.5,SansBody,HandUp,,,,,,,
+0.26666,SansSlam,3,,,,,,,
+0,BoneVRepeat,128,291,95,0,180,3,120
+0,BoneVRepeat,128,257,20,0,180,3,120
+0,BoneVRepeat,503,291,95,2,180,3,120
+0,BoneVRepeat,503,257,20,2,180,3,120
+0.3,SansAnimation,Idle,,,,,,,
+2.2,SansBody,HandDown,,,,,,,
+0.26666,SansSlam,1,,,,,,,
+0,BoneVRepeat,128,257,95,0,180,3,120
+0,BoneVRepeat,128,366,20,0,180,3,120
+0,BoneVRepeat,503,257,95,2,180,3,120
+0,BoneVRepeat,503,366,20,2,180,3,120
+0.3,SansAnimation,Idle,,,,,,,
+0,SansHead,default,,,,,,
+0,DamagePlayer,-40,,,,,,
+0,SansText,ok this is pissing me         off,,,,,,
+0.4,BoneVRepeat,518,391,20,0,80,137,20
+0,BoneVRepeat,133,356,40,0,120,41,15
+0,Platform,535,346,51,0,180,200,,
+0,Platform,535,316,51,0,180,200,,
+1,Platform,535,346,51,0,180,300,,
+0,Platform,535,346,51,0,180,300,,
+1,Platform,535,346,51,0,180,300,,
+0,GasterBlaster,1,720,0,520,340,180,0.56666,0.2
+1,Platform,535,296,51,0,180,300,,
+0,Platform,535,326,51,0,180,300,,
+1,Platform,535,326,51,0,180,300,,
+0,Platform,535,316,51,0,180,300,,
+0,GasterBlaster,1,160,0,160,140,90,0.56666,0.2
+0,GasterBlaster,1,480,0,480,140,90,0.56666,0.2
+1,Platform,535,346,51,0,180,300,,
+0,Platform,535,346,51,0,180,300,,
+0,BoneRepeat,B,558,391,50,0,180,300,0,1,120
+0,BoneRepeat,T,558,251,30,0,180,300,0,1,120
+1,Platform,535,346,51,0,180,300,,
+0,Platform,535,346,51,0,180,300,,
+0,Platform,535,346,51,0,180,300,,
+0,CombatZoneResize,133,251,508,391,TLResume,,
+0,HeartTeleport,320,376,,,,,
+0,HeartMode,1,,,,,,
+0,TLPause,,,,,,,
+1,BoneVRepeat,492,267,40,3,90,42,41
+0,BoneVRepeat,140,331,40,1,120,52,41
+0.5,BoneVRepeat,513,366,20,2,135,9,76
+0,BoneVRepeat,553,257,107,2,135,9,76
+7.7,BoneVRepeat,128,366,20,0,135,9,76
+0,BoneVRepeat,88,257,107,0,135,9,76
+0,SansText,...,,,,,,
 0,SansText,ok ok fine...,,,,,,
 0,SansText,you can keep your adblocker,,,,,,
 0,SansText,bye bye...,,,,,,
 0,SansText,you beat me...,,,,,,
 0.9,BlackScreen,1,,,,,,,
-0,Sound,Flash,,,,,,,
 0,Sound,PlayerFight,,,,,,
 0,Sound,HeartSplit,,,,,,
 0,Sound,HeartShatter,,,,,,
-52.4,EndAttack,,,,,,,,
+12.4,EndAttack,,,,,,
